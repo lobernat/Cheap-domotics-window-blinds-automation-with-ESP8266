@@ -12,7 +12,7 @@ I would like to share the code because the system works fine and is very practic
 
 ***Hardware***
 ***OrangePI***
-As a LAMP server
+As a LAMP server, works fine with PHP Version 5.6 (I have used some deprecated functions)
 ![OrangePI](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/OrangePI.jpg)
 
 Two relays for each window blind
