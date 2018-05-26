@@ -10,6 +10,14 @@ I would like to share the code because the system works fine and is very practic
 - Multiple programmable times
 - Sunset/Sunrise
 
+***Hardware***
+***OrangePI***
+As a LAMP server
+![OrangePI](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/OrangePI.jpg)
+
+Two relays for each window blind
+![Relays](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/esp8266_relay.jpg)
+
 ***Screen Shots***
 
 ![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/main.png)
