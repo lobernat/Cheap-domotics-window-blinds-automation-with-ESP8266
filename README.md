@@ -47,3 +47,5 @@ This code will only act on my bedroom blind (100) and up direction (1) during 5 
 - Also has a Limit switch that cut the current when the blind reach top or bottom.
 ![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/motor_diagram.png)
 
+- RY2 is the enabler and RY1 is for up or down
+- The non connected outupt of RY2 can go to the wall mounted switch for manual operation, so when the blind is running by ESP8266 the manual switch is disabled.
