@@ -2,15 +2,10 @@
 
 <?php
 
-
-//http://alarma.ibernat.com/editar_alarma.php?id=6
-//<a href="editar_alarma.php?id=6" >Editar</a>
-//http://alarma.ibernat.com/editar_alarma.php?id=6
-//http://alarma.ibernat.com/desactivar_alarma_mysql.php?id=14&estat=1
    
     
 // llegir ip casa
-$ipCasa = gethostbyname('pis.flnet.org');
+$ipCasa = gethostbyname('myddns.dyndns.org');
     
 //ip client
 function getUserIP()
