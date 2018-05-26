@@ -17,3 +17,17 @@ I would like to share the code because the system works fine and is very practic
 ![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/scheduler.png)
 
 ![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/solar.png)
+
+
+***How it works***
+The idea is very simple, Web server LAMP for the scheduler and ESP8266 with NODEMCU and relays.
+The ESP6266 is connected to my wifi network and has a micro http server that receives the orders by http GET
+http://IPesp8266/?codi=100105
+This code will only act on my bedroom blind (100) and up direction (1) during 5 seconds (05)
+
+***Code Description***
+- 1 ->Bedroom blind (1=active)
+- 0 ->Desktop room blind (0=inactive)
+- 0 ->Living room blind (0=inactive)
+- 1 -> action:1 go up, 0 go down
+- 05 -> during 5 seconds
