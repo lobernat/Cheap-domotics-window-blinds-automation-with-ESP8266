@@ -11,4 +11,9 @@ I would like to share the code because the system works fine and is very practic
 - Sunset/Sunrise
 
 ***Screen Shots***
-![alt text](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/Screenshots/main.png)
+
+![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/main.png)
+
+![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/scheduler.png)
+
+![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/solar.png)
