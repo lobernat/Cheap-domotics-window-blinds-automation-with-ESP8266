@@ -44,7 +44,7 @@ This code will only act on my bedroom blind (100) and up direction (1) during 5 
 
 ***Electric Diagram***
 - The window blind motors has 3 cables A->up, B->Down, C->Common (Never power A and B at the same time)
-- Also has a Limit switch that cut the current when the blind reach top or bottom.
+- Also has a Limit switch that cut the current when the blind reach top or bottom (hidden inside the motor).
 ![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/motor_diagram.png)
 
 - RY2 is the enabler and RY1 is for up or down
