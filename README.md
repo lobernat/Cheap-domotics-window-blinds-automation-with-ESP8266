@@ -22,6 +22,7 @@ Two relays for each window blind
 
 ![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/main.png)
 
+The WEB app is very vulnerable to SQL injections
 ![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/scheduler.png)
 
 ![Main screeen](https://raw.githubusercontent.com/lobernat/Cheap-domotics-window-blinds-automation-with-ESP8266/master/screenshots/solar.png)
