@@ -49,3 +49,9 @@ This code will only act on my bedroom blind (100) and up direction (1) during 5 
 
 - RY2 is the enabler and RY1 is for up or down
 - The non connected outupt of RY2 can go to the wall mounted switch for manual operation, so when the blind is running by ESP8266 the manual switch is disabled.
+
+***Userful Links***
+- http://nodemcu.readthedocs.io/en/master/
+- https://nodemcu-build.com/
+- https://wiki.wemos.cc/products:d1:d1_mini_pro
+- https://github.com/Rodmg/esptool-gui
