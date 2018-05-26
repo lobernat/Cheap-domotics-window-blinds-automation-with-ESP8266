@@ -55,3 +55,4 @@ This code will only act on my bedroom blind (100) and up direction (1) during 5 
 - https://nodemcu-build.com/
 - https://wiki.wemos.cc/products:d1:d1_mini_pro
 - https://github.com/Rodmg/esptool-gui
+- https://esp8266.ru/esplorer/
